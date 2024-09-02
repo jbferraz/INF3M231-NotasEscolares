@@ -57,6 +57,7 @@ public class NotasEscolaresVM {
                     + "\nResultado final: " + alunos[i][1] + ".\n----");
         }
         System.out.println(".: Sistema de Notas encerrado :.");
+        System.out.println("Alterado no VS online");
     }
 
     public static float randomNumberGenerator(int min, int max) {
